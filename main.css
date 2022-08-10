@@ -2,7 +2,25 @@ body {
     font-family: Helvetica, Sans-Serif;
     /* font-size: 24pt; */
   }
-  p {
+.content {
     color: red;
     font-size: 20px;
+  }
+  #logo {
+    width: 50px;
+  }
+  .news article h3 {
+    color: blueviolet;
+  }
+
+  p {
+    color: green;
+  }
+  
+  .red {
+    color: red;
+  }
+  
+  #blue {
+    color: blue;
   }
